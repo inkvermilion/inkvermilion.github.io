@@ -32,7 +32,7 @@ section p{color:var(--muted);max-width:680px;margin-bottom:14px}
 
 /* Work cards */
 .card{background:var(--panel);border:1px solid #2a2724;border-radius:8px;overflow:hidden;margin-bottom:28px}
-.card>img,.card-images img{width:100%;display:block}
+.card>img,.card>video,.card-images img{width:100%;display:block}
 .card-images.two{display:grid;grid-template-columns:1fr 1fr;gap:2px}
 .card-images.two img{height:100%}
 .card-text{padding:24px 26px 28px}
